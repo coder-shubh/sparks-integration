@@ -1,5 +1,5 @@
 # sparks-integration
-                                     Shubham Kumar Singh
+                                           Shubham Kumar Singh
 
                          Social Media Integration Developed by Shubham Kumar Singh.
 
